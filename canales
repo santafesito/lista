@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg",rcn
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSmc3ztB857c944nbmJ6Hgc)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
-
+EXTINF:0 tvg-id=»ButacaTV» tvg-logo=»http://imgfz.com/i/WsFZcKn.png» group-title=»Cine»,ButacaTV
+https://veranda-butacatv-1-es.samsung.wurl.tv/2000.m3u8
