@@ -923,7 +923,7 @@ https://www.youtube.com/watch?v=vWdJ8xCYiZQ
 #EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="https://i.ytimg.com/vi/xNaEN_Nd5EU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAe097CdWDw7UeMWeNZ7UPlTi32qg", Mi colección de STAR WARS
 https://www.youtube.com/watch?v=xNaEN_Nd5EU
 
-#EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="https://i.ytimg.com/vi/1vHrwd7zi7k/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmQLorNpE0exYsei0VH8wB7X4hmg", VISITA CONMIGO HAMLEYS
+#EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"https://i.ytimg.com/vi/atKIoJXWUxo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq5ocNOwVCHlGfK2ucd5tBMCS5sA", VISITA CONMIGO HAMLEYS
 https://www.youtube.com/watch?v=atKIoJXWUxo
 
 #EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="https://i.ytimg.com/vi/1vHrwd7zi7k/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmQLorNpE0exYsei0VH8wB7X4hmg", ESPECIAL LONDRES VLOG
@@ -973,8 +973,6 @@ https://www.youtube.com/watch?v=bNg0qtaneK4
 
 #EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="https://i.ytimg.com/vi/WEL40II9XaU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC49e8ae_vzUGXULccfGQZKpV-2pA", GANADOR del SORTEO ESPECIAL
 https://www.youtube.com/watch?v=WEL40II9XaU
-
-#EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="",
 
 #EXTINF:0 tvg-id="ext" group-title="El Rincón de Ani"tvg-logo="https://i.ytimg.com/vi/n26BkCj5iDA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPbSJEOgSrP1W7T3LnQ2lm0SRpzQ", Haz tu HUERTO en CASA
 https://www.youtube.com/watch?v=n26BkCj5iDA
